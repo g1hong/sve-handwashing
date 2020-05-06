@@ -1,3 +1,4 @@
+// import 'global.css';
 import App from './App.svelte';
 import 'blueprint-css/dist/blueprint.min.css';
 const app = new App({
